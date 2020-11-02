@@ -4,7 +4,6 @@
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 </p>
 
-
 ## License
 
 LAUNCH Broadband © 2020 All Rights Reserved
